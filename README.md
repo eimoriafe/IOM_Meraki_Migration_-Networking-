@@ -1,5 +1,4 @@
 ## LAN/WLAN/WAN Migration – (Cisco Catalyst to Meraki Cloud SD-WAN)
-
 📘Project Description
 
 The LAN/WLAN/WAN Migration Project modernizes legacy Cisco Catalyst infrastructure by transitioning to a Meraki Cloud SD-WAN architecture, integrating Zscaler Cloud Security, Microsoft Azure AD, and Rapid7 MDR for comprehensive visibility, security, and cloud-based management.
@@ -88,3 +87,9 @@ The migration from Cisco Catalyst to Meraki Cloud SD-WAN has established a secur
 - Enhanced user experience through optimized routing
 - Centralized visibility and compliance reporting
 - Future-proof foundation for multi-site and hybrid cloud environments
+
+The above project was executed in 2022 by:
+
+**Project Lead - Emmanuel Imoriafe, MCITP, CCNA(expired) PMP** 
+
+
