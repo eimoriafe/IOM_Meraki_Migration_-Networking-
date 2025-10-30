@@ -90,6 +90,6 @@ The migration from Cisco Catalyst to Meraki Cloud SD-WAN has established a secur
 
 The above project was executed in 2022 by:
 
-**Project Lead - Emmanuel Imoriafe, MCITP, CCNA(expired) PMP** 
+**Project Lead - Emmanuel Imoriafe, MCITP, PMP, CCNA(expired) ** 
 
 
